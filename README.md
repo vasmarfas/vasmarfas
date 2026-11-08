@@ -1,22 +1,23 @@
-I'm Vasilii, an Android and Kotlin Multiplatform developer and a systems and network engineer. MSc in Software
-Engineering (NRNU MEPhI). I can join a team or take a project from the first screen to the release.
+I'm Vasilii. I write Android and Kotlin Multiplatform apps and work as a systems and network engineer.
+MSc in Software Engineering from NRNU MEPhI. I can join a team or build a project alone, from the first
+screen to the store release.
 
 <p>
-<a href="https://vasmarfas.com"><img src="img/dev.png" width="400" alt="Mobile development since 2022: Kotlin Multiplatform and Compose, one codebase for Google Play, RuStore, App Store, Microsoft Store and the web"></a>
-<a href="https://vasmarfas.com"><img src="img/ops.png" width="400" alt="Systems and networks since 2018: my own infrastructure and work for clients on MikroTik, Proxmox, Linux, Windows Server and FreePBX"></a>
+<a href="https://vasmarfas.com"><img src="img/dev.png" width="400" alt="Mobile development since 2022: Android apps in Kotlin and Compose, Kotlin Multiplatform for iOS, desktop and the web, store releases"></a>
+<a href="https://vasmarfas.com"><img src="img/ops.png" width="400" alt="Systems and networks since 2018: my own hardware and paid jobs on networks, servers, virtualization and telephony"></a>
 </p>
 
 ## Projects
 
 <p>
-<a href="https://github.com/vasmarfas/Mobitool"><img src="img/mobitool.png" width="400" alt="Mobitool: 200+ tools in one app, almost all offline"></a>
-<a href="https://github.com/vasmarfas/universal-ambient-light"><img src="img/ambient.png" width="400" alt="Universal Ambient Light: Ambilight for Android TV and phones through Hyperion, WLED or Adalight"></a>
-<a href="https://github.com/vasmarfas/Notivisor"><img src="img/notivisor.png" width="400" alt="Notivisor: phone notifications inside a Quest 3 headset, no cloud and no account"></a>
+<a href="https://github.com/vasmarfas/Mobitool"><img src="img/mobitool.png" width="400" alt="Mobitool: 200+ tools in one app, almost everything works offline"></a>
+<a href="https://github.com/vasmarfas/universal-ambient-light"><img src="img/ambient.png" width="400" alt="Universal Ambient Light: ambient lighting for Android TV and phones, 10K+ installs on Google Play"></a>
+<a href="https://github.com/vasmarfas/Notivisor"><img src="img/notivisor.png" width="400" alt="Notivisor: phone notifications in a VR headset on top of a running game, with replies and calls"></a>
 <a href="https://github.com/vasmarfas/ScreenVigil"><img src="img/screenvigil.png" width="400" alt="ScreenVigil: camera auto-brightness and wake-on-approach for tablets with no light sensor"></a>
-<a href="https://github.com/vasmarfas/networkhelm"><img src="img/networkhelm.png" width="400" alt="NetworkHelm: RouterOS, OpenWrt, OPNsense, pfSense and VyOS in one window"></a>
-<a href="https://github.com/vasmarfas/SMSNode"><img src="img/smsnode.png" width="400" alt="SMSNode: self-hosted SMS through GoIP and Skyline GSM gateways"></a>
-<a href="https://github.com/vasmarfas/SIPgram"><img src="img/sipgram.png" width="400" alt="SIPgram: Asterisk and FreePBX extensions ring as regular Telegram voice calls"></a>
-<a href="https://dotadiviner.com"><img src="img/dotadiviner.png" width="400" alt="Dota Diviner: draft analytics for Dota 2"></a>
+<a href="https://github.com/vasmarfas/networkhelm"><img src="img/networkhelm.png" width="400" alt="NetworkHelm: a WinBox-like router manager for RouterOS, OpenWrt, OPNsense, pfSense and VyOS"></a>
+<a href="https://github.com/vasmarfas/SMSNode"><img src="img/smsnode.png" width="400" alt="SMSNode: self-hosted SMS through GoIP and Skyline GSM gateways, my MSc thesis"></a>
+<a href="https://github.com/vasmarfas/SIPgram"><img src="img/sipgram.png" width="400" alt="SIPgram: FreePBX and Asterisk extensions ring as ordinary Telegram calls"></a>
+<a href="https://dotadiviner.com"><img src="img/dotadiviner.png" width="400" alt="Dota Diviner: Dota 2 draft analysis, app and Telegram bot"></a>
 </p>
 
 <details>
